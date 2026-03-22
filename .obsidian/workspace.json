@@ -42,10 +42,14 @@
             "id": "16744b62af8f70ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "design_rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "design_rules"
             }
           }
         ]
@@ -221,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "343d56d133bb7405",
+  "active": "16744b62af8f70ae",
   "lastOpenFiles": [
-    "context_global.md",
     "code_rules.md",
+    "Projetos/PORTFOLIO/portfolio-vue/node_modules/tinyglobby/README.md",
+    "context_global.md",
     "design_rules.md",
     "docs/CONTRIBUTING.md",
     "docs",
